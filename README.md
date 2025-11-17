@@ -49,3 +49,5 @@ To replicate the basic findings described in the paper, you need:
 
 No fine-tuning, internal APIs, or proprietary hooks are required — everything
 is done at the prompt / interaction level.
+
+Note: This research paper is licensed under CC BY 4.0.
